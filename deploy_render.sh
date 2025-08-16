@@ -58,4 +58,5 @@ echo "   - Connect your GitHub repo"
 echo "   - Build Command: pip install -r requirements.txt && python manage.py migrate && python manage.py collectstatic --noinput"
 echo "   - Start Command: gunicorn projectname.wsgi"
 echo "   - Add Environment Variables: SECRET_KEY, DEBUG=False (and DATABASE_URL if using PostgreSQL)"
-echo "🚀 Your app will be live at https://yourapp.onrender.com"
+echo "🚀 Your app will be live at "https://app-lotto.onrender.com"
+
